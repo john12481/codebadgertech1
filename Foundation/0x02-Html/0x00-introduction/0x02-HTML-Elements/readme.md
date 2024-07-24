@@ -7,21 +7,21 @@ things like start tag (opening a tag) and end tag
 An HTML element is usually composed of a "Start
 Tag', "Element Content" and an "End Tag".
 Example:
-
+'''
 <p> This is an element content. </p>
-
+'''
 TRY IT YOURSELF By pasting it in your Editor. Output should look like
 
-
+'''
 This is an element content.
-
+'''
 
 The example HTML Element above is composed
 of the following:
-* start tag: <p>
+* start tag: '''<p>'''
 * element content: This is an element
 content.
-* end tag: </p>
+* end tag: '''</p>'''
 * 
 Example2:
 
